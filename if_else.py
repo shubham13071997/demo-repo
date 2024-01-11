@@ -15,3 +15,4 @@ Sports=["cricket","Football","Hockey"]
 Actor=["varun","Ranbir",""]
 
 custom_var = 4
+custom_var1 = 80
